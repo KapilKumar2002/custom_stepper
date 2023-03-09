@@ -17,6 +17,7 @@ class _PersonalDetailsState extends State<PersonalDetails> {
         BoxShadow(
             color: Colors.grey.shade300,
             blurRadius: 8,
+            offset: Offset(1, 1),
             blurStyle: BlurStyle.outer)
       ]),
       margin: EdgeInsets.symmetric(horizontal: 24, vertical: 28),

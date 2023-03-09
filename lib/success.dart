@@ -55,6 +55,7 @@ class SuccessScreen extends StatelessWidget {
             ),
             Text(
               "Registration Successfull",
+              textAlign: TextAlign.center,
               style: TextStyle(
                   fontWeight: FontWeight.w600,
                   fontSize: 20,
